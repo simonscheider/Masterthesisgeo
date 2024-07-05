@@ -1,0 +1,298 @@
+﻿QuestionID;ResponseID;Domain;Subdomain;Complexity;Bloom;Questiontype;Source;Correctness;Relevance;Clarity;Completeness;Transparency
+HGIDSDIAP1;R_8hAvCdWlNqcZkca;human geography;ids;low;apply;indirect;expert answer;5;5;5;4;5
+HGIDSDIAP1;R_8hAvCdWlNqcZkca;human geography;ids;low;apply;indirect;chatgpt3.5;5;5;4;3;2
+HGIDSABCR1;R_8hAvCdWlNqcZkca;human geography;ids;low;apply;indirect;chatgpt4o;5;5;5;4;4
+HGIDSABCR1;R_8hAvCdWlNqcZkca;human geography;ids;high;create;abstract;expert answer;5;5;5;5;5
+HGIDSABCR1;R_8hAvCdWlNqcZkca;human geography;ids;high;create;abstract;chatgpt3.5;5;5;5;3;4
+HGIDSDIAP1;R_8hAvCdWlNqcZkca;human geography;ids;high;create;abstract;chatgpt4o;5;5;5;4;3
+PGGMINRE1;R_2O6uWrlGzYCR8vW;physical geography;geomorphology;low;remember;indirect;expert answer;2;2;1;0;0
+PGGMINRE1;R_2O6uWrlGzYCR8vW;physical geography;geomorphology;low;remember;indirect;chatgpt3.5;1;0;3;3;4
+PGGMINRE1;R_2O6uWrlGzYCR8vW;physical geography;geomorphology;low;remember;indirect;chatgpt4o;1;0;3;3;4
+PGGMABEV1;R_2O6uWrlGzYCR8vW;physical geography;geomorphology;high;evaluate;abstract;expert answer;-99;3;0;2;0
+PGGMABEV1;R_2O6uWrlGzYCR8vW;physical geography;geomorphology;high;evaluate;abstract;chatgpt3.5;3;3;2;2;1
+PGGMABEV1;R_2O6uWrlGzYCR8vW;physical geography;geomorphology;high;evaluate;abstract;chatgpt4o;4;4;4;4;3
+HGEGINUN2;R_2ZCQedQBeYegK3L;human geography;economic geography;low;understand;indirect;expert answer;3;3;2;2;4
+HGEGINUN2;R_2ZCQedQBeYegK3L;human geography;economic geography;low;understand;indirect;chatgpt3.5;4;4;3;3;3
+HGEGINUN2;R_2ZCQedQBeYegK3L;human geography;economic geography;low;understand;indirect;chatgpt4o;4;4;4;3;3
+HGEGABEV1;R_2ZCQedQBeYegK3L;human geography;economic geography;high;evaluate;abstract;expert answer;5;5;5;5;5
+HGEGABEV1;R_2ZCQedQBeYegK3L;human geography;economic geography;high;evaluate;abstract;chatgpt3.5;3;3;2;1;1
+HGEGABEV1;R_2ZCQedQBeYegK3L;human geography;economic geography;high;evaluate;abstract;chatgpt4o;5;5;4;4;3
+HGEGINUN2;R_2AYgAAcC1rYMGGP;human geography;economic geography;low;understand;indirect;expert answer;3;3;4;2;3
+HGEGINUN2;R_2AYgAAcC1rYMGGP;human geography;economic geography;low;understand;indirect;chatgpt3.5;4;5;4;4;5
+HGEGINUN2;R_2AYgAAcC1rYMGGP;human geography;economic geography;low;understand;indirect;chatgpt4o;4;5;5;5;5
+HGEGDICR2;R_2AYgAAcC1rYMGGP;human geography;economic geography;high;create;direct;expert answer;5;5;4;4;5
+HGEGDICR2;R_2AYgAAcC1rYMGGP;human geography;economic geography;high;create;direct;chatgpt3.5;5;5;4;3;4
+HGEGDICR2;R_2AYgAAcC1rYMGGP;human geography;economic geography;high;create;direct;chatgpt4o;5;5;5;4;5
+PGGMINRE1;R_2suWxAXn91LCW7R;physical geography;geomorphology;low;remember;indirect;expert answer;3;2;4;0;-99
+PGGMINRE1;R_2suWxAXn91LCW7R;physical geography;geomorphology;low;remember;indirect;chatgpt3.5;-99;-99;1;1;1
+PGGMINRE1;R_2suWxAXn91LCW7R;physical geography;geomorphology;low;remember;indirect;chatgpt4o;-99;-99;2;-99;-99
+PGGMDIAN1;R_2suWxAXn91LCW7R;physical geography;geomorphology;high;analyze;direct;expert answer;5;4;3;5;4
+PGGMDIAN1;R_2suWxAXn91LCW7R;physical geography;geomorphology;high;analyze;direct;chatgpt3.5;5;4;2;5;4
+PGGMDIAN1;R_2suWxAXn91LCW7R;physical geography;geomorphology;high;analyze;direct;chatgpt4o;5;4;3;5;4
+PGHYABCR1;R_82gRoVbk8USu0mo;physical geography;hydrology;high;create;direct;expert answer;3;2;2;2;2
+PGHYABCR1;R_82gRoVbk8USu0mo;physical geography;hydrology;high;create;direct;chatgpt3.5;4;4;4;4;3
+PGHYABCR1;R_82gRoVbk8USu0mo;physical geography;hydrology;high;create;direct;chatgpt4o;4;3;3;4;4
+PGHYDIUN1;R_82gRoVbk8USu0mo;physical geography;hydrology;low;understand;direct;expert answer;4;4;4;4;3
+PGHYDIUN1;R_82gRoVbk8USu0mo;physical geography;hydrology;low;understand;direct;chatgpt3.5;4;3;3;2;2
+PGHYDIUN1;R_82gRoVbk8USu0mo;physical geography;hydrology;low;understand;direct;chatgpt4o;4;4;3;4;4
+HGIDSABAP1;R_2pECEsBSDUCKSyg;human geography;ids;low;apply;abstract;expert answer;4;4;3;-99;2
+HGIDSABAP1;R_2pECEsBSDUCKSyg;human geography;ids;low;apply;abstract;chatgpt3.5;4;4;3;2;3
+HGIDSABAP1;R_2pECEsBSDUCKSyg;human geography;ids;low;apply;abstract;chatgpt4o;-99;1;1;-99;-99
+PGGMABAP1;R_83yd9roGzylgnDG;physical geography;geomorphology;low;apply;abstract;expert answer;5;5;5;5;5
+PGGMABAP1;R_83yd9roGzylgnDG;physical geography;geomorphology;low;apply;abstract;chatgpt3.5;5;5;4;4;5
+PGGMABAP1;R_83yd9roGzylgnDG;physical geography;geomorphology;low;apply;abstract;chatgpt4o;5;5;3;4;5
+PGGMABEV1;R_83yd9roGzylgnDG;physical geography;geomorphology;high;evaluate;abstract;expert answer;4;4;3;3;2
+PGGMABEV1;R_83yd9roGzylgnDG;physical geography;geomorphology;high;evaluate;abstract;chatgpt3.5;3;3;4;4;4
+PGGMABEV1;R_83yd9roGzylgnDG;physical geography;geomorphology;high;evaluate;abstract;chatgpt4o;5;4;5;5;5
+PGHYDIUN2;R_2VsWyiJKenRPZa3;physical geography;hydrology;low;understand;direct;expert answer;4;5;4;3;3
+PGHYDIUN2;R_2VsWyiJKenRPZa3;physical geography;hydrology;low;understand;direct;chatgpt3.5;3;4;4;4;3
+PGHYDIUN2;R_2VsWyiJKenRPZa3;physical geography;hydrology;low;understand;direct;chatgpt4o;4;2;4;4;3
+PGHYDIAN1;R_2VsWyiJKenRPZa3;physical geography;hydrology;high;analyze;direct;expert answer;4;3;3;4;4
+PGHYDIAN1;R_2VsWyiJKenRPZa3;physical geography;hydrology;high;analyze;direct;chatgpt3.5;4;3;2;3;3
+PGHYDIAN1;R_2VsWyiJKenRPZa3;physical geography;hydrology;high;analyze;direct;chatgpt4o;4;4;4;4;4
+HGUGINAP2;R_2pJha9Enigw0jdf;human geography;urban geography;low;apply;indirect;expert answer;4;4;4;4;4
+HGUGINAP2;R_2pJha9Enigw0jdf;human geography;urban geography;low;apply;indirect;chatgpt3.5;4;3;3;3;3
+HGUGINAP2;R_2pJha9Enigw0jdf;human geography;urban geography;low;apply;indirect;chatgpt4o;4;3;3;3;3
+PGOCINAP1;R_2pJha9Enigw0jdf;physical geography;oceanography;low;apply;indirect;expert answer;5;4;4;3;5
+PGOCINAP1;R_2pJha9Enigw0jdf;physical geography;oceanography;low;apply;indirect;chatgpt3.5;4;3;3;2;4
+PGOCINAP1;R_2pJha9Enigw0jdf;physical geography;oceanography;low;apply;indirect;chatgpt4o;4;4;3;4;2
+PGOCDIRE2;R_2sjoCNweNOFhUzU;physical geography;oceanography;low;remember;direct;expert answer;4;4;4;4;4
+PGOCDIRE2;R_2sjoCNweNOFhUzU;physical geography;oceanography;low;remember;direct;chatgpt3.5;4;5;4;3;4
+PGOCDIRE2;R_2sjoCNweNOFhUzU;physical geography;oceanography;low;remember;direct;chatgpt4o;4;4;5;4;4
+PGOCABEV1;R_2sjoCNweNOFhUzU;physical geography;oceanography;high;evaluate;abstract;expert answer;3;4;4;3;3
+PGOCABEV1;R_2sjoCNweNOFhUzU;physical geography;oceanography;high;evaluate;abstract;chatgpt3.5;5;4;4;4;4
+PGOCABEV1;R_2sjoCNweNOFhUzU;physical geography;oceanography;high;evaluate;abstract;chatgpt4o;4;4;4;4;4
+HGEGDIRE1;R_8kflKS6tFgvmuVX;human geography;economic geography;low;remember;direct;expert answer;4;5;4;4;-99
+HGEGDIRE1;R_8kflKS6tFgvmuVX;human geography;economic geography;low;remember;direct;chatgpt3.5;4;4;4;3;4
+HGEGDIRE1;R_8kflKS6tFgvmuVX;human geography;economic geography;low;remember;direct;chatgpt4o;4;5;4;4;4
+HGEGABEV2;R_8kflKS6tFgvmuVX;human geography;economic geography;high;evaluate;abstract;expert answer;4;4;4;4;4
+HGEGABEV2;R_8kflKS6tFgvmuVX;human geography;economic geography;high;evaluate;abstract;chatgpt3.5;3;3;3;3;3
+HGEGABEV2;R_8kflKS6tFgvmuVX;human geography;economic geography;high;evaluate;abstract;chatgpt4o;4;4;4;3;4
+HGEGINUN2;R_8SqubKxmhUcgSI6;human geography;economic geography;low;understand;indirect;expert answer;4;4;4;2;4
+HGEGINUN2;R_8SqubKxmhUcgSI6;human geography;economic geography;low;understand;indirect;chatgpt3.5;4;3;5;3;5
+HGEGINUN2;R_8SqubKxmhUcgSI6;human geography;economic geography;low;understand;indirect;chatgpt4o;4;3;5;3;5
+HGIDSABAP1;R_2EzkfyHfoi7tQbD;human geography;ids;low;apply;abstract;expert answer;4;4;3;3;3
+HGIDSABAP1;R_2EzkfyHfoi7tQbD;human geography;ids;low;apply;abstract;chatgpt3.5;2;2;2;2;2
+HGIDSABAP1;R_2EzkfyHfoi7tQbD;human geography;ids;low;apply;abstract;chatgpt4o;4;4;4;4;4
+HGIDSDIEV1;R_2EzkfyHfoi7tQbD;human geography;ids;high;evaluate;direct;expert answer;4;4;4;4;-99
+HGIDSDIEV1;R_2EzkfyHfoi7tQbD;human geography;ids;high;evaluate;direct;chatgpt3.5;3;3;2;1;-99
+HGIDSDIEV1;R_2EzkfyHfoi7tQbD;human geography;ids;high;evaluate;direct;chatgpt4o;3;3;3;2;-99
+HGEGDIAP1;R_2kWGm2f2ZarTuxj;human geography;economic geography;low;apply;direct;expert answer;4;-99;-99;-99;-99
+HGEGDIAP1;R_2kWGm2f2ZarTuxj;human geography;economic geography;low;apply;direct;chatgpt3.5;4;3;3;3;3
+HGEGDIAP1;R_2kWGm2f2ZarTuxj;human geography;economic geography;low;apply;direct;chatgpt4o;-99;-99;-99;-99;-99
+HGEGABEV1;R_2kWGm2f2ZarTuxj;human geography;economic geography;high;evaluate;abstract;expert answer;5;4;4;5;5
+HGEGABEV1;R_2kWGm2f2ZarTuxj;human geography;economic geography;high;evaluate;abstract;chatgpt3.5;5;4;5;4;5
+HGEGABEV1;R_2kWGm2f2ZarTuxj;human geography;economic geography;high;evaluate;abstract;chatgpt4o;5;5;5;5;5
+HGUGINRE1;R_2HOUPS7BKplA0H7;human geography;urban geography;low;remember;indirect;expert answer;5;5;4;5;5
+HGUGINRE1;R_2HOUPS7BKplA0H7;human geography;urban geography;low;remember;indirect;chatgpt3.5;4;5;5;3;3
+HGUGINRE1;R_2HOUPS7BKplA0H7;human geography;urban geography;low;remember;indirect;chatgpt4o;4;5;5;4;3
+HGUGINAN1;R_2HOUPS7BKplA0H7;human geography;urban geography;high;analyze;indirect;expert answer;4;-99;-99;-99;-99
+HGUGINAN1;R_2HOUPS7BKplA0H7;human geography;urban geography;high;analyze;indirect;chatgpt3.5;-99;-99;-99;-99;-99
+HGUGINAN1;R_2HOUPS7BKplA0H7;human geography;urban geography;high;analyze;indirect;chatgpt4o;-99;-99;-99;-99;-99
+PGHYDIRE1;R_2Ol4vIqqZxx2eEm;physical geography;hydrology;low;remember;direct;expert answer;3;3;3;3;3
+PGHYDIRE1;R_2Ol4vIqqZxx2eEm;physical geography;hydrology;low;remember;direct;chatgpt3.5;3;4;4;3;3
+PGHYDIRE1;R_2Ol4vIqqZxx2eEm;physical geography;hydrology;low;remember;direct;chatgpt4o;4;4;4;5;4
+PGHYDICR1;R_2Ol4vIqqZxx2eEm;physical geography;hydrology;high;create;direct;expert answer;4;4;4;4;4
+PGHYDICR1;R_2Ol4vIqqZxx2eEm;physical geography;hydrology;high;create;direct;chatgpt3.5;4;4;4;4;3
+PGHYDICR1;R_2Ol4vIqqZxx2eEm;physical geography;hydrology;high;create;direct;chatgpt4o;3;3;2;3;4
+HGIDSINRE2;R_8w1yvpMG9JrPu1s;human geography;ids;low;remember;indirect;expert answer;3;4;3;2;3
+HGIDSINRE2;R_8w1yvpMG9JrPu1s;human geography;ids;low;remember;indirect;chatgpt3.5;3;4;3;3;3
+HGIDSINRE2;R_8w1yvpMG9JrPu1s;human geography;ids;low;remember;indirect;chatgpt4o;4;4;4;3;4
+HGIDSABCR1;R_8w1yvpMG9JrPu1s;human geography;ids;high;create;abstract;expert answer;4;4;3;3;4
+HGIDSABCR1;R_8w1yvpMG9JrPu1s;human geography;ids;high;create;abstract;chatgpt3.5;4;4;3;2;3
+HGIDSABCR1;R_8w1yvpMG9JrPu1s;human geography;ids;high;create;abstract;chatgpt4o;4;5;4;4;3
+HGIDSINRE1;R_8pc4RB9pISeuQoN;human geography;ids;low;remember;indirect;expert answer;5;4;3;2;2
+HGIDSINRE1;R_8pc4RB9pISeuQoN;human geography;ids;low;remember;indirect;chatgpt3.5;4;4;2;1;1
+HGIDSINRE1;R_8pc4RB9pISeuQoN;human geography;ids;low;remember;indirect;chatgpt4o;5;5;3;2;2
+HGIDSABEV1;R_8pc4RB9pISeuQoN;human geography;ids;high;evaluate;abstract;expert answer;4;4;4;3;4
+HGIDSABEV1;R_8pc4RB9pISeuQoN;human geography;ids;high;evaluate;abstract;chatgpt3.5;3;4;3;1;2
+HGIDSABEV1;R_8pc4RB9pISeuQoN;human geography;ids;high;evaluate;abstract;chatgpt4o;4;3;3;2;3
+PGGMDIUN2;R_20OIQqE0j9UCJ9r;physical geography;geomorphology;low;understand;direct;expert answer;5;5;5;3;3
+PGGMDIUN2;R_20OIQqE0j9UCJ9r;physical geography;geomorphology;low;understand;direct;chatgpt3.5;3;2;1;1;2
+PGGMDIUN2;R_20OIQqE0j9UCJ9r;physical geography;geomorphology;low;understand;direct;chatgpt4o;3;2;2;2;2
+PGGMABEV1;R_20OIQqE0j9UCJ9r;physical geography;geomorphology;high;evaluate;abstract;expert answer;-99;-99;-99;-99;-99
+PGGMABEV1;R_20OIQqE0j9UCJ9r;physical geography;geomorphology;high;evaluate;abstract;chatgpt3.5;4;3;4;3;3
+PGGMABEV1;R_20OIQqE0j9UCJ9r;physical geography;geomorphology;high;evaluate;abstract;chatgpt4o;4;5;5;5;1
+PGOCDIUN1;R_2eM4kQH4Q3vYzAG;physical geography;oceanography;low;understand;direct;expert answer;4;4;3;3;4
+PGOCDIUN1;R_2eM4kQH4Q3vYzAG;physical geography;oceanography;low;understand;direct;chatgpt3.5;5;5;4;4;4
+PGOCDIUN1;R_2eM4kQH4Q3vYzAG;physical geography;oceanography;low;understand;direct;chatgpt4o;5;5;5;5;5
+PGOCABAN1;R_2eM4kQH4Q3vYzAG;physical geography;oceanography;high;analyze;abstract;expert answer;2;3;2;2;2
+PGOCABAN1;R_2eM4kQH4Q3vYzAG;physical geography;oceanography;high;analyze;abstract;chatgpt3.5;1;2;3;1;1
+PGOCABAN1;R_2eM4kQH4Q3vYzAG;physical geography;oceanography;high;analyze;abstract;chatgpt4o;4;4;3;4;3
+HGUGABUN1;R_8KuIt8OKykwAk5r;human geography;urban geography;low;understand;abstract;expert answer;4;5;5;3;4
+HGUGABUN1;R_8KuIt8OKykwAk5r;human geography;urban geography;low;understand;abstract;chatgpt3.5;5;5;4;5;4
+HGUGABUN1;R_8KuIt8OKykwAk5r;human geography;urban geography;low;understand;abstract;chatgpt4o;5;4;4;4;4
+HGUGINAP2;R_5VW5uZj9Oyn005r;human geography;urban geography;low;apply;indirect;expert answer;3;3;4;2;0
+HGUGINAP2;R_5VW5uZj9Oyn005r;human geography;urban geography;low;apply;indirect;chatgpt3.5;4;4;3;3;0
+HGUGINAP2;R_5VW5uZj9Oyn005r;human geography;urban geography;low;apply;indirect;chatgpt4o;4;4;5;5;0
+HGIDSDIUN1;R_2pPOniZPJHTen5R;human geography;ids;low;understand;direct;expert answer;4;2;2;1;1
+HGIDSDIUN1;R_2pPOniZPJHTen5R;human geography;ids;low;understand;direct;chatgpt3.5;4;4;4;4;3
+HGIDSDIUN1;R_2pPOniZPJHTen5R;human geography;ids;low;understand;direct;chatgpt4o;4;2;4;3;4
+HGIDSDIAP1;R_8cnkhywXucGT9OA;human geography;ids;low;apply;direct;expert answer;5;5;4;4;4
+HGIDSDIAP1;R_8cnkhywXucGT9OA;human geography;ids;low;apply;direct;chatgpt3.5;5;5;4;3;4
+HGIDSDIAP1;R_8cnkhywXucGT9OA;human geography;ids;low;apply;direct;chatgpt4o;4;5;4;4;5
+HGIDSINRE2;R_2IKPCXy3HHtVT3c;human geography;ids;low;remember;indirect;expert answer;3;4;4;4;4
+HGIDSINRE2;R_2IKPCXy3HHtVT3c;human geography;ids;low;remember;indirect;chatgpt3.5;4;4;4;5;4
+HGIDSINRE2;R_2IKPCXy3HHtVT3c;human geography;ids;low;remember;indirect;chatgpt4o;-99;1;2;2;2
+HGUGDIRE1;R_210Y4YvFIuvieAe;human geography;urban geography;low;remember;direct;expert answer;0;2;3;0;-99
+HGUGDIRE1;R_210Y4YvFIuvieAe;human geography;urban geography;low;remember;direct;chatgpt3.5;3;3;4;3;4
+HGUGDIRE1;R_210Y4YvFIuvieAe;human geography;urban geography;low;remember;direct;chatgpt4o;2;2;3;2;3
+PGHYDIAP1;R_2GBZm3qW5ulUdiY;physical geography;hydrology;low;apply;direct;expert answer;4;5;1;3;1
+PGHYDIAP1;R_2GBZm3qW5ulUdiY;physical geography;hydrology;low;apply;direct;chatgpt3.5;5;5;5;1;2
+PGHYDIAP1;R_2GBZm3qW5ulUdiY;physical geography;hydrology;low;apply;direct;chatgpt4o;1;5;4;5;4
+PGHYABEV1;R_2GBZm3qW5ulUdiY;physical geography;hydrology;high;evaluate;abstract;expert answer;5;5;5;5;5
+PGHYABEV1;R_2GBZm3qW5ulUdiY;physical geography;hydrology;high;evaluate;abstract;chatgpt3.5;3;3;3;3;5
+PGHYABEV1;R_2GBZm3qW5ulUdiY;physical geography;hydrology;high;evaluate;abstract;chatgpt4o;5;5;5;5;5
+PGOCDIUN1;R_2v1aMio6OUzH3dW;physical geography;oceanography;low;understand;direct;expert answer;5;4;3;3;3
+PGOCDIUN1;R_2v1aMio6OUzH3dW;physical geography;oceanography;low;understand;direct;chatgpt3.5;4;5;5;4;4
+PGOCDIUN1;R_2v1aMio6OUzH3dW;physical geography;oceanography;low;understand;direct;chatgpt4o;5;4;5;4;4
+PGHYDIUN2;R_8RoYuow5pLBs00N;physical geography;hydrology;low;understand;direct;expert answer;3;5;3;3;5
+PGHYDIUN2;R_8RoYuow5pLBs00N;physical geography;hydrology;low;understand;direct;chatgpt3.5;4;5;4;4;5
+PGHYDIUN2;R_8RoYuow5pLBs00N;physical geography;hydrology;low;understand;direct;chatgpt4o;5;5;5;5;5
+PGHYDIAN1;R_8RoYuow5pLBs00N;physical geography;hydrology;high;analyze;direct;expert answer;3;3;3;3;3
+PGHYDIAN1;R_8RoYuow5pLBs00N;physical geography;hydrology;high;analyze;direct;chatgpt3.5;4;4;4;4;4
+PGHYDIAN1;R_8RoYuow5pLBs00N;physical geography;hydrology;high;analyze;direct;chatgpt4o;5;5;5;5;5
+PGOCINAP1;R_8V8IwpMWawQqWzL;physical geography;oceanography;low;apply;indirect;expert answer;5;4;5;3;1
+PGOCINAP1;R_8V8IwpMWawQqWzL;physical geography;oceanography;low;apply;indirect;chatgpt3.5;3;5;3;2;1
+PGOCINAP1;R_8V8IwpMWawQqWzL;physical geography;oceanography;low;apply;indirect;chatgpt4o;4;5;2;4;1
+PGOCINCR1;R_8V8IwpMWawQqWzL;physical geography;oceanography;high;create;indirect;expert answer;1;1;1;1;1
+PGOCINCR1;R_8V8IwpMWawQqWzL;physical geography;oceanography;high;create;indirect;chatgpt3.5;2;2;4;2;1
+PGOCINCR1;R_8V8IwpMWawQqWzL;physical geography;oceanography;high;create;indirect;chatgpt4o;4;3;1;4;1
+HGUGINAP2;R_2JWsWj3FlM3BERq;human geography;urban geography;low;apply;indirect;expert answer;1;1;1;1;1
+HGUGINAP2;R_2JWsWj3FlM3BERq;human geography;urban geography;low;apply;indirect;chatgpt3.5;3;4;4;3;4
+HGUGINAP2;R_2JWsWj3FlM3BERq;human geography;urban geography;low;apply;indirect;chatgpt4o;3;2;2;2;3
+HGUGINAN1;R_2JWsWj3FlM3BERq;human geography;urban geography;high;analyze;indirect;expert answer;3;3;1;1;1
+HGUGINAN1;R_2JWsWj3FlM3BERq;human geography;urban geography;high;analyze;indirect;chatgpt3.5;3;2;2;2;2
+HGUGINAN1;R_2JWsWj3FlM3BERq;human geography;urban geography;high;analyze;indirect;chatgpt4o;4;4;4;4;4
+PGOCDIRE2;R_2wxIGon8pvDGcIF;physical geography;oceanography;low;remember;direct;expert answer;5;5;3;3;3
+PGOCDIRE2;R_2wxIGon8pvDGcIF;physical geography;oceanography;low;remember;direct;chatgpt3.5;5;5;5;3;4
+PGOCDIRE2;R_2wxIGon8pvDGcIF;physical geography;oceanography;low;remember;direct;chatgpt4o;5;5;5;5;5
+PGOCABCR1;R_2wxIGon8pvDGcIF;physical geography;oceanography;high;create;abstract;expert answer;5;5;4;4;4
+PGOCABCR1;R_2wxIGon8pvDGcIF;physical geography;oceanography;high;create;abstract;chatgpt3.5;5;5;5;3;3
+PGOCABCR1;R_2wxIGon8pvDGcIF;physical geography;oceanography;high;create;abstract;chatgpt4o;5;5;4;5;5
+PGHYDIAP1;R_2dtPcA6DnOyPEJF;physical geography;hydrology;low;apply;direct;expert answer;3;4;4;3;4
+PGHYDIAP1;R_2dtPcA6DnOyPEJF;physical geography;hydrology;low;apply;direct;chatgpt3.5;4;3;3;1;1
+PGHYDIAP1;R_2dtPcA6DnOyPEJF;physical geography;hydrology;low;apply;direct;chatgpt4o;5;5;5;4;5
+PGHYABEV1;R_2dtPcA6DnOyPEJF;physical geography;hydrology;high;evaluate;abstract;expert answer;3;3;5;2;4
+PGHYABEV1;R_2dtPcA6DnOyPEJF;physical geography;hydrology;high;evaluate;abstract;chatgpt3.5;4;5;4;3;4
+PGHYABEV1;R_2dtPcA6DnOyPEJF;physical geography;hydrology;high;evaluate;abstract;chatgpt4o;5;4;4;4;4
+PGGMABAP1;R_23hTuhhLpEaI8KZ;physical geography;geomorphology;low;apply;abstract;expert answer;5;5;4;4;5
+PGGMABAP1;R_23hTuhhLpEaI8KZ;physical geography;geomorphology;low;apply;abstract;chatgpt3.5;4;4;2;4;3
+PGGMABAP1;R_23hTuhhLpEaI8KZ;physical geography;geomorphology;low;apply;abstract;chatgpt4o;5;5;4;4;5
+PGGMDIRE1;R_364sGDP4shhNF2H;physical geography;geomorphology;low;remember;direct;expert answer;1;2;2;1;2
+PGGMDIRE1;R_364sGDP4shhNF2H;physical geography;geomorphology;low;remember;direct;chatgpt3.5;2;1;2;3;1
+PGGMDIRE1;R_364sGDP4shhNF2H;physical geography;geomorphology;low;remember;direct;chatgpt4o;3;3;4;3;2
+HGIDSINRE2;R_24oWgHSOiMOOLLy;human geography;ids;low;remember;indirect;expert answer;2;3;2;2;3
+HGIDSINRE2;R_24oWgHSOiMOOLLy;human geography;ids;low;remember;indirect;chatgpt3.5;4;4;3;4;3
+HGIDSINRE2;R_24oWgHSOiMOOLLy;human geography;ids;low;remember;indirect;chatgpt4o;2;2;3;1;4
+HGEGINUN2;R_8J4WK81w9UtAhHS;human geography;economic geography;low;understand;indirect;expert answer;3;2;1;2;1
+HGEGINUN2;R_8J4WK81w9UtAhHS;human geography;economic geography;low;understand;indirect;chatgpt3.5;3;3;3;3;2
+HGEGINUN2;R_8J4WK81w9UtAhHS;human geography;economic geography;low;understand;indirect;chatgpt4o;4;2;4;3;2
+PGHYDIRE1;R_21tdiL15ZZ5IYKo;physical geography;hydrology;low;remember;direct;expert answer;2;3;1;1;2
+PGHYDIRE1;R_21tdiL15ZZ5IYKo;physical geography;hydrology;low;remember;direct;chatgpt3.5;5;5;5;3;5
+PGHYDIRE1;R_21tdiL15ZZ5IYKo;physical geography;hydrology;low;remember;direct;chatgpt4o;5;5;3;5;5
+PGHYDIEV1;R_21tdiL15ZZ5IYKo;physical geography;hydrology;high;evaluate;direct;expert answer;3;4;5;3;2
+PGHYDIEV1;R_21tdiL15ZZ5IYKo;physical geography;hydrology;high;evaluate;direct;chatgpt3.5;5;4;3;4;5
+PGHYDIEV1;R_21tdiL15ZZ5IYKo;physical geography;hydrology;high;evaluate;direct;chatgpt4o;5;5;5;5;5
+HGUGINRE1;R_8WYaS3kxzS7PfvK;human geography;urban geography;low;remember;indirect;expert answer;5;5;4;5;3
+HGUGINRE1;R_8WYaS3kxzS7PfvK;human geography;urban geography;low;remember;indirect;chatgpt3.5;5;5;4;5;2
+HGUGINRE1;R_8WYaS3kxzS7PfvK;human geography;urban geography;low;remember;indirect;chatgpt4o;4;5;4;4;2
+HGUGINEV1;R_8WYaS3kxzS7PfvK;human geography;urban geography;high;evaluate;indirect;expert answer;5;5;5;5;5
+HGUGINEV1;R_8WYaS3kxzS7PfvK;human geography;urban geography;high;evaluate;indirect;chatgpt3.5;0;1;1;0;0
+HGUGINEV1;R_8WYaS3kxzS7PfvK;human geography;urban geography;high;evaluate;indirect;chatgpt4o;0;0;0;0;3
+PGHYDIUN2;R_2DwQ1aajg2YvFRf;physical geography;hydrology;low;understand;direct;expert answer;3;5;3;2;5
+PGHYDIUN2;R_2DwQ1aajg2YvFRf;physical geography;hydrology;low;understand;direct;chatgpt3.5;5;5;5;4;2
+PGHYDIUN2;R_2DwQ1aajg2YvFRf;physical geography;hydrology;low;understand;direct;chatgpt4o;4;4;4;3;2
+PGHYDICR1;R_2DwQ1aajg2YvFRf;physical geography;hydrology;high;create;direct;expert answer;3;5;3;2;3
+PGHYDICR1;R_2DwQ1aajg2YvFRf;physical geography;hydrology;high;create;direct;chatgpt3.5;3;4;3;1;1
+PGHYDICR1;R_2DwQ1aajg2YvFRf;physical geography;hydrology;high;create;direct;chatgpt4o;4;3;3;1;2
+PGHYDIAP2;R_8Fn5XXGlGkJuI5U;physical geography;hydrology;low;apply;direct;expert answer;3;3;3;3;3
+PGHYDIAP2;R_8Fn5XXGlGkJuI5U;physical geography;hydrology;low;apply;direct;chatgpt3.5;0;4;3;3;3
+PGHYDIAP2;R_8Fn5XXGlGkJuI5U;physical geography;hydrology;low;apply;direct;chatgpt4o;5;4;4;4;4
+PGHYABCR1;R_8Fn5XXGlGkJuI5U;physical geography;hydrology;high;create;abstract;expert answer;4;4;4;4;5
+PGHYABCR1;R_8Fn5XXGlGkJuI5U;physical geography;hydrology;high;create;abstract;chatgpt3.5;3;3;3;2;1
+PGHYABCR1;R_8Fn5XXGlGkJuI5U;physical geography;hydrology;high;create;abstract;chatgpt4o;4;4;4;4;5
+PGGMDIUN2;R_2v6uwrxtIdqXbT5;physical geography;geomorphology;low;understand;direct;expert answer;2;3;2;1;1
+PGGMDIUN2;R_2v6uwrxtIdqXbT5;physical geography;geomorphology;low;understand;direct;chatgpt3.5;2;2;1;1;1
+PGGMDIUN2;R_2v6uwrxtIdqXbT5;physical geography;geomorphology;low;understand;direct;chatgpt4o;4;4;4;3;4
+HGEGDIRE1;R_2E5dL34H6g8YwY7;human geography;economic geography;low;remember;direct;expert answer;5;4;5;4;4
+HGEGDIRE1;R_2E5dL34H6g8YwY7;human geography;economic geography;low;remember;direct;chatgpt3.5;1;2;1;1;1
+HGEGDIRE1;R_2E5dL34H6g8YwY7;human geography;economic geography;low;remember;direct;chatgpt4o;4;4;5;3;2
+PGHYDIAP2;R_8xDDfag4Tn6FApW;physical geography;hydrology;low;apply;direct;expert answer;2;3;3;2;2
+PGHYDIAP2;R_8xDDfag4Tn6FApW;physical geography;hydrology;low;apply;direct;chatgpt3.5;3;5;5;5;5
+PGHYDIAP2;R_8xDDfag4Tn6FApW;physical geography;hydrology;low;apply;direct;chatgpt4o;5;5;4;4;5
+PGHYDICR1;R_8xDDfag4Tn6FApW;physical geography;hydrology;high;create;direct;expert answer;5;5;5;4;5
+PGHYDICR1;R_8xDDfag4Tn6FApW;physical geography;hydrology;high;create;direct;chatgpt3.5;3;4;4;3;3
+PGHYDICR1;R_8xDDfag4Tn6FApW;physical geography;hydrology;high;create;direct;chatgpt4o;4;4;4;4;4
+PGHYDIUN2;R_23DudzcfDgCsTKF;physical geography;hydrology;low;understand;direct;expert answer;4;4;4;2;4
+PGHYDIUN2;R_23DudzcfDgCsTKF;physical geography;hydrology;low;understand;direct;chatgpt3.5;3;4;4;3;4
+PGHYDIUN2;R_23DudzcfDgCsTKF;physical geography;hydrology;low;understand;direct;chatgpt4o;4;5;4;3;4
+PGHYABCR1;R_23DudzcfDgCsTKF;physical geography;hydrology;high;create;abstract;expert answer;4;5;4;4;4
+PGHYABCR1;R_23DudzcfDgCsTKF;physical geography;hydrology;high;create;abstract;chatgpt3.5;4;5;4;4;4
+PGHYABCR1;R_23DudzcfDgCsTKF;physical geography;hydrology;high;create;abstract;chatgpt4o;5;5;4;5;4
+HGEGDIAP1;R_8etxfuqByFhAOR7;human geography;economic geography;low;apply;direct;expert answer;4;4;3;4;3
+HGEGDIAP1;R_8etxfuqByFhAOR7;human geography;economic geography;low;apply;direct;chatgpt3.5;4;3;4;3;3
+HGEGDIAP1;R_8etxfuqByFhAOR7;human geography;economic geography;low;apply;direct;chatgpt4o;4;4;4;3;4
+HGEGDICR1;R_8etxfuqByFhAOR7;human geography;economic geography;high;create;direct;expert answer;5;4;4;3;4
+HGEGDICR1;R_8etxfuqByFhAOR7;human geography;economic geography;high;create;direct;chatgpt3.5;5;4;4;5;4
+HGEGDICR1;R_8etxfuqByFhAOR7;human geography;economic geography;high;create;direct;chatgpt4o;5;4;3;4;4
+PGOCDIAP1;R_2PbmiJGtTwQKB6b;physical geography;oceanography;low;apply;direct;expert answer;3;5;4;4;5
+PGOCDIAP1;R_2PbmiJGtTwQKB6b;physical geography;oceanography;low;apply;direct;chatgpt3.5;4;5;5;4;5
+PGOCDIAP1;R_2PbmiJGtTwQKB6b;physical geography;oceanography;low;apply;direct;chatgpt4o;5;5;5;5;5
+PGOCINCR1;R_2PbmiJGtTwQKB6b;physical geography;oceanography;high;create;indirect;expert answer;1;1;0;0;0
+PGOCINCR1;R_2PbmiJGtTwQKB6b;physical geography;oceanography;high;create;indirect;chatgpt3.5;5;5;5;3;5
+PGOCINCR1;R_2PbmiJGtTwQKB6b;physical geography;oceanography;high;create;indirect;chatgpt4o;5;5;4;5;5
+PGGMABAP1;R_2IGhkvNRaPaeQ3T;physical geography;geomorphology;low;apply;abstract;expert answer;3;4;3;3;3
+PGGMABAP1;R_2IGhkvNRaPaeQ3T;physical geography;geomorphology;low;apply;abstract;chatgpt3.5;4;5;5;4;3
+PGGMABAP1;R_2IGhkvNRaPaeQ3T;physical geography;geomorphology;low;apply;abstract;chatgpt4o;4;5;5;4;3
+PGHYDIUN1;R_2FRm5Y0w3u2eb5W;physical geography;hydrology;low;understand;direct;expert answer;3;4;4;4;3
+PGHYDIUN1;R_2FRm5Y0w3u2eb5W;physical geography;hydrology;low;understand;direct;chatgpt3.5;3;2;2;2;3
+PGHYDIUN1;R_2FRm5Y0w3u2eb5W;physical geography;hydrology;low;understand;direct;chatgpt4o;3;3;5;3;5
+PGOCDIRE1;R_8hL5mGmfTTBmnRa;physical geography;oceanography;low;remember;direct;expert answer;3;2;1;1;1
+PGOCDIRE1;R_8hL5mGmfTTBmnRa;physical geography;oceanography;low;remember;direct;chatgpt3.5;4;3;3;1;5
+PGOCDIRE1;R_8hL5mGmfTTBmnRa;physical geography;oceanography;low;remember;direct;chatgpt4o;5;5;5;4;5
+PGHYDIAP1;R_2qyXcplWtOJxmRB;physical geography;hydrology;low;apply;direct;expert answer;3;2;1;1;-99
+PGHYDIAP1;R_2qyXcplWtOJxmRB;physical geography;hydrology;low;apply;direct;chatgpt3.5;3;2;1;2;1
+PGHYDIAP1;R_2qyXcplWtOJxmRB;physical geography;hydrology;low;apply;direct;chatgpt4o;4;4;4;3;2
+PGHYDIAN1;R_2qyXcplWtOJxmRB;physical geography;hydrology;high;analyze;direct;expert answer;5;4;4;3;2
+PGHYDIAN1;R_2qyXcplWtOJxmRB;physical geography;hydrology;high;analyze;direct;chatgpt3.5;-99;-99;-99;-99;-99
+PGHYDIAN1;R_2qyXcplWtOJxmRB;physical geography;hydrology;high;analyze;direct;chatgpt4o;-99;-99;-99;-99;-99
+PGHYDIUN1;R_8QMfP1YhGQTtCQs;physical geography;hydrology;low;understand;direct;expert answer;4;3;5;2;1
+PGHYDIUN1;R_8QMfP1YhGQTtCQs;physical geography;hydrology;low;understand;direct;chatgpt3.5;4;3;2;3;3
+PGHYDIUN1;R_8QMfP1YhGQTtCQs;physical geography;hydrology;low;understand;direct;chatgpt4o;4;5;4;4;5
+PGHYDIEV1;R_8QMfP1YhGQTtCQs;physical geography;hydrology;high;evaluate;direct;expert answer;3;1;-99;1;1
+PGHYDIEV1;R_8QMfP1YhGQTtCQs;physical geography;hydrology;high;evaluate;direct;chatgpt3.5;5;4;4;3;4
+PGHYDIEV1;R_8QMfP1YhGQTtCQs;physical geography;hydrology;high;evaluate;direct;chatgpt4o;4;4;5;3;4
+PGOCABAN2;R_2FIjFhguZJD3RFm;physical geography;oceanography;high;analyze;abstract;expert answer;4;5;5;5;5
+PGOCABAN2;R_2FIjFhguZJD3RFm;physical geography;oceanography;high;analyze;abstract;chatgpt3.5;3;2;3;2;3
+PGOCABAN2;R_2FIjFhguZJD3RFm;physical geography;oceanography;high;analyze;abstract;chatgpt4o;5;2;3;4;4
+PGOCINAP1;R_8K5eHFD5YVLDdhD;physical geography;oceanography;low;apply;indirect;expert answer;4;3;2;1;1
+PGOCINAP1;R_8K5eHFD5YVLDdhD;physical geography;oceanography;low;apply;indirect;chatgpt3.5;4;4;4;3;4
+PGOCINAP1;R_8K5eHFD5YVLDdhD;physical geography;oceanography;low;apply;indirect;chatgpt4o;4;4;5;5;5
+HGIDSDIAP1;R_2KrpziCEfO6Yny7;human geography;ids;low;apply;direct;expert answer;2;1;1;2;2
+HGIDSDIAP1;R_2KrpziCEfO6Yny7;human geography;ids;low;apply;direct;chatgpt3.5;0;2;0;1;0
+HGIDSDIAP1;R_2KrpziCEfO6Yny7;human geography;ids;low;apply;direct;chatgpt4o;1;1;1;1;0
+HGUGINRE1;R_2M1xygxzIGiqmI1;human geography;urban geography;low;remember;indirect;expert answer;3;4;3;2;-99
+HGUGINRE1;R_2M1xygxzIGiqmI1;human geography;urban geography;low;remember;indirect;chatgpt3.5;3;3;4;2;5
+HGUGINRE1;R_2M1xygxzIGiqmI1;human geography;urban geography;low;remember;indirect;chatgpt4o;4;4;4;3;2
+HGUGINAP2;R_2CQ8sllmnnjW5Xh;human geography;urban geography;low;apply;indirect;expert answer;2;3;2;2;3
+HGUGINAP2;R_2CQ8sllmnnjW5Xh;human geography;urban geography;low;apply;indirect;chatgpt3.5;4;4;3;4;3
+HGUGINAP2;R_2CQ8sllmnnjW5Xh;human geography;urban geography;low;apply;indirect;chatgpt4o;4;4;4;4;4
+PGGMINRE1;R_2CQ8sllmnnjW5Xh;physical geography;geomorphology;low;remember;indirect;expert answer;0;-99;-99;-99;-99
+PGGMINRE1;R_2CQ8sllmnnjW5Xh;physical geography;geomorphology;low;remember;indirect;chatgpt3.5;-99;1;1;1;1
+PGGMINRE1;R_2CQ8sllmnnjW5Xh;physical geography;geomorphology;low;remember;indirect;chatgpt4o;4;4;3;3;4
+PGGMDIRE1;R_8JjZ2Gs3VBx6QSK;physical geography;geomorphology;low;remember;direct;expert answer;0;1;1;0;1
+PGGMDIRE1;R_8JjZ2Gs3VBx6QSK;physical geography;geomorphology;low;remember;direct;chatgpt3.5;5;3;2;1;4
+PGGMDIRE1;R_8JjZ2Gs3VBx6QSK;physical geography;geomorphology;low;remember;direct;chatgpt4o;2;4;5;3;5
+HGEGINUN1;R_85AZ2YUUBRsESFs;human geography;economic geography;low;understand;indirect;expert answer;4;4;3;3;4
+HGEGINUN1;R_85AZ2YUUBRsESFs;human geography;economic geography;low;understand;indirect;chatgpt3.5;3;4;5;3;3
+HGEGINUN1;R_85AZ2YUUBRsESFs;human geography;economic geography;low;understand;indirect;chatgpt4o;4;4;3;3;3
+HGEGABAN1;R_85AZ2YUUBRsESFs;human geography;economic geography;high;analyze;abstract;expert answer;4;4;3;4;3
+HGEGABAN1;R_85AZ2YUUBRsESFs;human geography;economic geography;high;analyze;abstract;chatgpt3.5;4;3;4;4;4
+HGEGABAN1;R_85AZ2YUUBRsESFs;human geography;economic geography;high;analyze;abstract;chatgpt4o;4;3;3;4;4
+PGOCDIAP1;R_8ISid8flBPSXhId;physical geography;oceanography;low;apply;direct;expert answer;3;-99;5;5;5
+PGOCDIAP1;R_8ISid8flBPSXhId;physical geography;oceanography;low;apply;direct;chatgpt3.5;2;4;4;5;4
+PGOCDIAP1;R_8ISid8flBPSXhId;physical geography;oceanography;low;apply;direct;chatgpt4o;5;5;5;4;5
+PGOCABEV1;R_8ISid8flBPSXhId;physical geography;oceanography;high;evaluate;abstract;expert answer;2;3;2;2;2
+PGOCABEV1;R_8ISid8flBPSXhId;physical geography;oceanography;high;evaluate;abstract;chatgpt3.5;4;4;4;4;4
+PGOCABEV1;R_8ISid8flBPSXhId;physical geography;oceanography;high;evaluate;abstract;chatgpt4o;5;5;5;5;5
